@@ -1,13 +1,3 @@
-Assignment-2
-Name - Patel Vrajesh
-Roll Number - 20110134
-
-This zip folder contains the following three files
-1. README
-2. Report_20110134.pdf  (Contains the report that includes the algorithm, results, and other important details)
-3. 20110134_Assignment2.ipynb (Contains the python code that implemets the face recognition using eigenfaces)
-4. ouput_data (A csv file that contains the output data including accuracy)
-
 
 
 Dataset used --> olivetti_faces
